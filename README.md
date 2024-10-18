@@ -6,6 +6,7 @@
 
 ## Prérequis
 
+- CAN (Controller Area Network) avec un format 11-bit
 - Un adaptateur OBD-II (Bluetooth, Wi-Fi ou USB) compatible avec la BMW G80 M3.
 - Python 3.x
 - Bibliothèques Python suivantes :
