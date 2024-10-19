@@ -26,6 +26,8 @@ def update_data():
 
     root.after(1000, update_data)
 
+
+#Config de la fenetre
 root = tk.Tk()
 root.title("M3 Performance Tracker")
 
