@@ -10,6 +10,7 @@ cmd_speed = obd.commands.SPEED
 cmd_rpm = obd.commands.RPM
 cmd_temp = obd.commands.COOLANT_TEMP
 
+#information data
 def update_data():
     if connection.status() == obd.OBDStatus.CAR_CONNECTED:
         speed = connection.query(cmd_speed)
