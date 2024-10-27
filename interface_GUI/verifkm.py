@@ -2,7 +2,7 @@ import obd
 import tkinter as tk
 from tkinter import messagebox
 
-# Se connecter au port OBD-II
+# Se connecter au port OBD-II - no protocol
 def connect_to_obd():
     connection = obd.OBD()  # Auto-connect to USB or Bluetooth adapter
     if connection.is_connected():
