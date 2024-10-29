@@ -18,5 +18,5 @@
 1. Clonez le repository sur votre machine locale :
 
    ```bash
-   git clone https://github.com/votre-utilisateur/bmw-g80-m3-performance-monitor.git
-   cd bmw-g80-m3-performance-monitor
+   git clone https://github.com/Traxxouu/Interface-GUI-BMW-m3-G80.git
+   cd Interface-GUI-BMW-m3-G80
